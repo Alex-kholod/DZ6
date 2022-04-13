@@ -1,0 +1,28 @@
+﻿  main.cpp
+C:\Users\Alex\source\repos\ThirdProject\DZ6\main.cpp(1,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.h(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  panel.cpp
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.h(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.cpp(6,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.cpp(24,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.cpp(26,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.cpp(38,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.cpp(40,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.cpp(53,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.cpp(64,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.cpp(78,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.cpp(81,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.cpp(99,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.cpp(102,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.cpp(118,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.cpp(127,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  DZ6.vcxproj -> C:\Users\Alex\source\repos\ThirdProject\Debug\DZ6.exe
